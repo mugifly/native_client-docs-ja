@@ -1,10 +1,10 @@
 native_client-docs-ja
 ====================
 
-Japanese translation for documents of [Native Client (NaCl)](https://code.google.com/p/nativeclient/)
-and [Native Client SDK website](https://developers.google.com/native-client/).
+Japanese translation for documents of [Native Client](https://code.google.com/p/nativeclient/) (NaCl)
+and [Native Client SDK](https://developers.google.com/native-client/) website.
 
-=> https://github.com/mugifly/native_client-docs-ja/wiki
+Translated documents => https://github.com/mugifly/native_client-docs-ja/wiki
 
 ## Translators
 
